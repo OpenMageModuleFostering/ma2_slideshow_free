@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Ma2_Slideshow_Free",
+    "name": "OpenMageModuleFostering\/Ma2_Slideshow_Free",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Ma2 Slideshow helps you create a slideshow and put it at any page to increase visitors' attention on your store",
     "authors": [
-    {
-        "name": "Magenmarket.com",
-        "email": "trungdt@omegatheme.com"
-    }
-],
+        {
+            "name": "Magenmarket.com",
+            "email": "trungdt@omegatheme.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
