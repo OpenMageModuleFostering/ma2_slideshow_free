@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Ma2 Slideshow helps you create a slideshow and put it at any page to increase visitors' attention on your store
